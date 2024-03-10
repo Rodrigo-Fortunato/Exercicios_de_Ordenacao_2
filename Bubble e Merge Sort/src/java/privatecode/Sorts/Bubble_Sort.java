@@ -1,4 +1,4 @@
-package controller;
+package java.privatecode.Sorts;
 
 public class Bubble_Sort {
     public Bubble_Sort (){

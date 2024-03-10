@@ -1,4 +1,6 @@
-package controller;
+package java.privatecode.Sorts;
+
+
 
 public class Merge_Sort {
     public Merge_Sort(){
