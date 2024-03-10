@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Ordenadores:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Ordenadores_jar</output-path>
+    <root id="archive" name="Sorts.jar">
+      <element id="module-output" name="Bubble e Merge Sort" />
+    </root>
+  </artifact>
+</component>
