@@ -4,7 +4,8 @@ out/
 !**/src/test/**/out/
 Exercicios de Ordenacao.iml
 Bubble e Merge Sort.iml
-.idea
+.idea/.gitignore
+Bubble e Merge Sort/src/view
 
 ### Eclipse ###
 .apt_generated
